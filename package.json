@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "create-react-app": "^2.1.3"
-  }
+  },
+  "name": "DEV",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:VitoUtopico/estudo-fullstack-goweek.git",
+  "author": "Fábio Vito <fabiovito@hotmail.com>",
+  "license": "MIT"
 }
